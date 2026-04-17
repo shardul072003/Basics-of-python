@@ -1,6 +1,6 @@
 # Python Basics: Assignment 1 
 
-## 📝 Overview
+##  Overview
 This repository contains a Jupyter Notebook (`Assignment(1).ipynb`) featuring a series of basic Python programming exercises. It is designed to demonstrate fundamental Python concepts such as loops, conditional statements (`if-else`), mathematical operations, and the use of imported modules.
 
 ##  Features & Exercises
